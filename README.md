@@ -1,4 +1,5 @@
 Made using Harvard's CS50's codespace: https://code.cs50.io/
+
 Problem from Week 2 problem set of EDX CS50 course.
 
 Rules:
